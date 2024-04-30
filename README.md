@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ShahzebMahmood
-- 👀 I’m interested in Python and Swift
-- 🌱 I’m currently learning Python and Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I'm Shaz!
 
-<!---
-ShahzebMahmood/ShahzebMahmood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+- 👨‍💻 I'm passionate about Python and Cybersecurity.
+- 🌱 I’m currently diving deeper into Python programming and exploring various aspects of Cybersecurity.
+- 💼 I’m open to exciting collaboration opportunities.
+- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/shahzeb-mahmood-70b694166).
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
