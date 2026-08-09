@@ -7,7 +7,7 @@ I learn by building real systems, automating infrastructure as code, and tacklin
 
 ---
 
-### 🧭 What I'm Focused On
+### What I'm Focused On
 
 - **Cloud & Infrastructure:** Provisioning cloud environments with **Terraform**, managing **Kubernetes (EKS)** clusters, and designing automated CI/CD pipelines.
 - **Cybersecurity:** Sharpening offensive & defensive skills on **HackTheBox**, exploring container security, and hardening cloud workloads.
@@ -16,7 +16,7 @@ I learn by building real systems, automating infrastructure as code, and tacklin
 
 ---
 
-### 🛠️ Core Toolbox
+### Core Toolbox
 
 - **Cloud & Infrastructure:** `Terraform` • `Kubernetes` • `Docker` • `AWS` • `Linux` • `GitHub Actions` • `Bash`
 - **Security & Hardening:** `HackTheBox` • `Cloud Security` • `AES Encryption` • `IAM & Least Privilege`
