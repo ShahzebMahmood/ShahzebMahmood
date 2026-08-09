@@ -3,7 +3,7 @@
 I'm an engineer documenting my journey through **DevOps, Cloud Infrastructure, and Cybersecurity**.  
 I learn by building real systems, automating infrastructure as code, and tackling hands-on security challenges.
 
-[Blog & Writeups](https://shahzebmahmood.github.io) • [LinkedIn](https://linkedin.com/in/shaz-mahmood1) • [HackTheBox](https://app.hackthebox.com/profile/1949647) • [Email](mailto:shahzebmahmood3@gmail.com)
+[Portfolio & Blog](https://shahzebmahmood.github.io) • [LinkedIn](https://linkedin.com/in/shaz-mahmood1) • [HackTheBox](https://app.hackthebox.com/profile/1949647) • [Email](mailto:shahzebmahmood3@gmail.com)
 
 ---
 
@@ -11,8 +11,8 @@ I learn by building real systems, automating infrastructure as code, and tacklin
 
 - ☁️ **Cloud & Infrastructure:** Provisioning cloud environments with **Terraform**, managing **Kubernetes (EKS)** clusters, and designing automated CI/CD pipelines.
 - 🛡️ **Cybersecurity:** Sharpening offensive & defensive skills on **HackTheBox**, exploring container security, and hardening cloud workloads.
-- 💻 **Hands-on Building:** Crafting full-stack projects like **[Xcelor8Coach](https://github.com/ShahzebMahmood/Xcelor8Coach)** to understand end-to-end software architectures, security models, and database design.
-- ✍️ **Sharing Knowledge:** Documenting step-by-step guides, automation scripts, and CTF writeups on my [personal blog](https://shahzebmahmood.github.io).
+- 💻 **Hands-on Building:** Crafting systems from scratch to understand software architectures, security models, and database design.
+- ✍️ **Sharing Knowledge:** Documenting step-by-step guides, automation scripts, and CTF writeups on my [personal portfolio & blog](https://shahzebmahmood.github.io).
 
 ---
 
@@ -20,15 +20,13 @@ I learn by building real systems, automating infrastructure as code, and tacklin
 
 - **Cloud & Infrastructure:** `Terraform` • `Kubernetes` • `Docker` • `AWS` • `Linux` • `GitHub Actions` • `Bash`
 - **Security & Hardening:** `HackTheBox` • `Cloud Security` • `AES Encryption` • `IAM & Least Privilege`
-- **Languages & Data:** `Python` • `TypeScript` • `Next.js` • `PostgreSQL` • `Supabase` • `Git`
+- **Languages & Tools:** `Python` • `TypeScript` • `PostgreSQL` • `Supabase` • `Git`
 
 ---
 
-### 🌟 Featured Repositories
+### 🌐 Projects & Technical Writeups
 
-- ☁️ **[terraform-eks-helloworld](https://github.com/ShahzebMahmood/terraform-eks-helloworld)** — Automated AWS EKS Kubernetes cluster provisioning with reusable Terraform modules.
-- 🏋️‍♂️ **[Xcelor8Coach](https://github.com/ShahzebMahmood/Xcelor8Coach)** — Production-grade multi-tenant fitness SaaS with AI workout/nutrition generation, live gym logging, and encrypted records.
-- 📝 **[shahzebmahmood.github.io](https://github.com/ShahzebMahmood/shahzebmahmood.github.io)** — Open-source personal tech blog sharing DevOps tutorials, CTF writeups, and security research.
+Explore my latest cloud infrastructure projects, automation scripts, and cybersecurity writeups on my **[Portfolio Website →](https://shahzebmahmood.github.io)**
 
 ---
 
