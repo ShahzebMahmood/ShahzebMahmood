@@ -9,10 +9,10 @@ I learn by building real systems, automating infrastructure as code, and tacklin
 
 ### 🧭 What I'm Focused On
 
-- ☁️ **Cloud & Infrastructure:** Provisioning cloud environments with **Terraform**, managing **Kubernetes (EKS)** clusters, and designing automated CI/CD pipelines.
-- 🛡️ **Cybersecurity:** Sharpening offensive & defensive skills on **HackTheBox**, exploring container security, and hardening cloud workloads.
-- 💻 **Hands-on Building:** Crafting systems from scratch to understand software architectures, security models, and database design.
-- ✍️ **Sharing Knowledge:** Documenting step-by-step guides, automation scripts, and CTF writeups on my [personal portfolio & blog](https://shahzebmahmood.github.io).
+- **Cloud & Infrastructure:** Provisioning cloud environments with **Terraform**, managing **Kubernetes (EKS)** clusters, and designing automated CI/CD pipelines.
+- **Cybersecurity:** Sharpening offensive & defensive skills on **HackTheBox**, exploring container security, and hardening cloud workloads.
+- **Hands-on Building:** Crafting systems from scratch to understand software architectures, security models, and database design.
+- **Sharing Knowledge:** Documenting step-by-step guides, automation scripts, and CTF writeups on my [personal portfolio & blog](https://shahzebmahmood.github.io).
 
 ---
 
@@ -24,6 +24,6 @@ I learn by building real systems, automating infrastructure as code, and tacklin
 
 ---
 
-### 🌐 Projects & Technical Writeups
+### Projects & Technical Writeups
 
 Explore my latest cloud infrastructure projects, automation scripts, and cybersecurity writeups on my **[Portfolio Website →](https://shahzebmahmood.github.io)**
