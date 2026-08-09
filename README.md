@@ -27,10 +27,3 @@ I learn by building real systems, automating infrastructure as code, and tacklin
 ### 🌐 Projects & Technical Writeups
 
 Explore my latest cloud infrastructure projects, automation scripts, and cybersecurity writeups on my **[Portfolio Website →](https://shahzebmahmood.github.io)**
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahzebMahmood&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=94a3b8&icon_color=10b981" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzebMahmood&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=94a3b8" width="45%" />
-</p>
